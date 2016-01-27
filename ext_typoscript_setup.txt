@@ -15,4 +15,6 @@ plugin.tx_jmrecaptcha {
 	tabindex = {$plugin.tx_jmrecaptcha.tabindex}
 	lang = {$plugin.tx_jmrecaptcha.lang}
 
+	size = normal
+
 }
